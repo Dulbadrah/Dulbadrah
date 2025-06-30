@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi All 👋
 
 <h1 align="center">Hi 👋, I'm Dulbadrah</h1>
-<h3 align="center">Mongolia</h3>
+<h3 align="center">A'm about to startworking with fullstack Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
